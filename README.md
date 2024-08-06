@@ -79,7 +79,7 @@ Here are some screenshots of the website:
 _Home Page showcasing the sleek design._
 
 ![Product Page](./screenshots/highlights.png)
-_Responsive design for mobile devices._
+_Responsive design and some animation in highlights section._
 
 ![Mobile View](./screenshots/3dmodel.png)
 _Product Page with interactive 3D models._
