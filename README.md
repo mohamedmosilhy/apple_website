@@ -5,16 +5,20 @@ Welcome to the iPhone 15 Clone Website! This project is a stunning clone of the 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Demo](#demo)
 
 ## Introduction
 
 This project recreates the visual appeal and functionality of the official iPhone 15 website. It leverages powerful libraries and frameworks to provide a seamless, interactive user experience.
+
+## Demo
+
+Check out the live demo of the website [here](https://apple-website-lac.vercel.app/).
 
 ## Features
 
@@ -45,7 +49,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/iphone15-clone.git
+   git clone https://github.com/mohamedmosilhy/apple_website.git
    cd iphone15-clone
    ```
 
@@ -84,6 +88,3 @@ _Responsive design and some animation in highlights section._
 ![Mobile View](./screenshots/3dmodel.png)
 _Product Page with interactive 3D models._
 
-## Demo
-
-Check out the live demo of the website [here](https://apple-website-lac.vercel.app/).
